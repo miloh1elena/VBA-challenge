@@ -17,3 +17,4 @@ This VBA script analyzes stock data stored in Excel worksheets. Each stock's yea
 ## Prerequisites
 
 - Microsoft Excel, VBA
+#VBA-challenge
